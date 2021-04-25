@@ -1,0 +1,12 @@
+[
+{
+  "directory": "D:/QQData/Deep_learn_os/exp/exp3/build",
+  "command": "g++  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\cache.obj -c D:\\QQData\\Deep_learn_os\\exp\\exp3\\src\\cache.cpp",
+  "file": "D:/QQData/Deep_learn_os/exp/exp3/src/cache.cpp"
+},
+{
+  "directory": "D:/QQData/Deep_learn_os/exp/exp3/build",
+  "command": "g++  @CMakeFiles/main.dir/includes_CXX.rsp -g -o CMakeFiles\\main.dir\\src\\main.obj -c D:\\QQData\\Deep_learn_os\\exp\\exp3\\src\\main.cpp",
+  "file": "D:/QQData/Deep_learn_os/exp/exp3/src/main.cpp"
+}
+]
